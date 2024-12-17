@@ -1,0 +1,18 @@
+{
+  "text_entry_line":
+     {
+         "colours":
+         {
+             "dark_bg": "#808080",
+             "selected_bg": "#55595e",
+             "normal_text": "#000000",
+             "selected_text": "#FFFFFF",
+             "normal_border": "#6a6a6a"
+         },
+         "font":
+         {   "size": "62",
+             "bold": "1",
+             "italic": "0"
+         }
+     }
+ }
